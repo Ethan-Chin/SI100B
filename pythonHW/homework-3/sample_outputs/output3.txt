@@ -1,0 +1,1 @@
+(lambda y (lambda x (+ (sin x) (cos y))))

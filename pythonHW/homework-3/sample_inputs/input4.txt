@@ -1,0 +1,1 @@
+(apply x (numf 3) (apply y (numi 2) (apply z (numi 0) (lambda y (lambda x (+ (sin x) (cos y)))))))

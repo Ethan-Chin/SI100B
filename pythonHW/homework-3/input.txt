@@ -1,0 +1,1 @@
+(apply x (sin (numi 1)) (lambda x x))
